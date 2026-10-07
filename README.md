@@ -35,3 +35,15 @@ Formatação Condicional e Personalizada
 
 🎯 Objetivo Profissional
 Demonstrar a aplicação prática de conceitos de lógica de dados, organização de planilhas, design de interface funcional (UI/UX no Excel) e automação de processos para a resolução de problemas financeiros do dia a dia.
+
+🖇️📁 Arquivos do projeto
+
+[App Imposto de renda.xlsx](https://github.com/user-attachments/files/33153878/App.Imposto.de.renda.xlsx)
+
+<img width="1007" height="493" alt="Títular" src="https://github.com/user-attachments/assets/17d9525e-4169-4900-8b76-301eee10cb65" />
+
+<img width="865" height="483" alt="Informes" src="https://github.com/user-attachments/assets/7f21783e-5a93-4b79-87d1-eb4a52f9799f" />
+
+<img width="632" height="480" alt="Notas" src="https://github.com/user-attachments/assets/836cdd30-194f-47c8-b73e-b6e4f6f23a55" />
+
+
